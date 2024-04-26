@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [8.11.1](https://github.com/snakemake/snakemake/compare/v8.11.0...v8.11.1) (2024-04-26)
+
+
+### Bug Fixes
+
+* do not distinguish between local and remote rules in dryrun ([74b99ec](https://github.com/snakemake/snakemake/commit/74b99ecee63a9922c4dbb6951cc63865955d198a))
+
 ## [8.11.0](https://github.com/snakemake/snakemake/compare/v8.10.8...v8.11.0) (2024-04-25)
 
 
